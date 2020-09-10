@@ -1,0 +1,18 @@
+{
+  "name": "exact-generator",
+  "version": "1.0.0",
+  "description": "Generates a template Express + React project",
+  "main": "src/cli.js",
+  "author": "Mark Rahal",
+  "license": "MIT",
+  "bin": {
+    "exact-generator": "bin/exact-generator"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "copy-dir": "^1.3.0",
+    "prompts": "^2.3.2"
+  }
+}
