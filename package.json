@@ -1,12 +1,15 @@
 {
   "name": "exact-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates a template Express + React project",
   "main": "src/cli.js",
   "author": "Mark Rahal",
   "license": "MIT",
   "keywords": [
-    "express", "react", "parcel", "generator"
+    "express",
+    "react",
+    "parcel",
+    "generator"
   ],
   "bin": {
     "exact-generator": "bin/exact-generator"
