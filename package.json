@@ -5,6 +5,9 @@
   "main": "src/cli.js",
   "author": "Mark Rahal",
   "license": "MIT",
+  "keywords": [
+    "express", "react", "parcel", "generator"
+  ],
   "bin": {
     "exact-generator": "bin/exact-generator"
   },
